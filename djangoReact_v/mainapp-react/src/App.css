@@ -1,0 +1,28 @@
+.header {
+background: #163E6C;
+display: flex;
+justify-content: space-around;
+align-items: center;
+
+}
+
+.header .nav{
+display: block;
+}
+
+.main {
+background: #D20A11;
+display: flex;
+justify-content: space-around;
+align-items: center;
+}
+
+
+.footer {
+background: #EBE6D6;
+display: flex;
+justify-content: space-around;
+align-items: center;
+}
+
+
